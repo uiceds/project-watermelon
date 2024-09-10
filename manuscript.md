@@ -23,8 +23,8 @@ header-includes: |
   <meta name="dc.date" content="2024-09-10" />
   <meta name="citation_publication_date" content="2024-09-10" />
   <meta property="article:published_time" content="2024-09-10" />
-  <meta name="dc.modified" content="2024-09-10T16:40:23+00:00" />
-  <meta property="article:modified_time" content="2024-09-10T16:40:23+00:00" />
+  <meta name="dc.modified" content="2024-09-10T16:55:36+00:00" />
+  <meta property="article:modified_time" content="2024-09-10T16:55:36+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -45,9 +45,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://uiceds.github.io/cee-492-term-project-fall-2024-project-rootstock-1/" />
   <meta name="citation_pdf_url" content="https://uiceds.github.io/cee-492-term-project-fall-2024-project-rootstock-1/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://uiceds.github.io/cee-492-term-project-fall-2024-project-rootstock-1/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://uiceds.github.io/cee-492-term-project-fall-2024-project-rootstock-1/v/19373d2e0af76bf64cb02a30895fa452e2a7062c/" />
-  <meta name="manubot_html_url_versioned" content="https://uiceds.github.io/cee-492-term-project-fall-2024-project-rootstock-1/v/19373d2e0af76bf64cb02a30895fa452e2a7062c/" />
-  <meta name="manubot_pdf_url_versioned" content="https://uiceds.github.io/cee-492-term-project-fall-2024-project-rootstock-1/v/19373d2e0af76bf64cb02a30895fa452e2a7062c/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://uiceds.github.io/cee-492-term-project-fall-2024-project-rootstock-1/v/44edb5721d1199939d2bd4325b9373c60e0f3b26/" />
+  <meta name="manubot_html_url_versioned" content="https://uiceds.github.io/cee-492-term-project-fall-2024-project-rootstock-1/v/44edb5721d1199939d2bd4325b9373c60e0f3b26/" />
+  <meta name="manubot_pdf_url_versioned" content="https://uiceds.github.io/cee-492-term-project-fall-2024-project-rootstock-1/v/44edb5721d1199939d2bd4325b9373c60e0f3b26/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -69,9 +69,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://uiceds.github.io/cee-492-term-project-fall-2024-project-rootstock-1/v/19373d2e0af76bf64cb02a30895fa452e2a7062c/))
+([permalink](https://uiceds.github.io/cee-492-term-project-fall-2024-project-rootstock-1/v/44edb5721d1199939d2bd4325b9373c60e0f3b26/))
 was automatically generated
-from [uiceds/cee-492-term-project-fall-2024-project-rootstock-1@19373d2](https://github.com/uiceds/cee-492-term-project-fall-2024-project-rootstock-1/tree/19373d2e0af76bf64cb02a30895fa452e2a7062c)
+from [uiceds/cee-492-term-project-fall-2024-project-rootstock-1@44edb57](https://github.com/uiceds/cee-492-term-project-fall-2024-project-rootstock-1/tree/44edb5721d1199939d2bd4325b9373c60e0f3b26)
 on September 10, 2024.
 </em></small>
 
