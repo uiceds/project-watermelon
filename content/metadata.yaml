@@ -1,5 +1,5 @@
 ---
-title: "Manuscript Title"
+title: "Building Watermelon Farms for Climate Change Mitigation"
 date: null  # Defaults to date generated, but can specify like '2022-10-31'.
 keywords:
   - markdown
@@ -7,9 +7,9 @@ keywords:
   - manubot
 lang: en-US
 authors:
-  - github: johndoe
-    name: John Doe
-    initials: JD
+  - github: mayanka26
+    name: Mayank Aggarwal
+    initials: MA
     orcid: XXXX-XXXX-XXXX-XXXX
     twitter: johndoe
     mastodon: johndoe
