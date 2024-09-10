@@ -1,7 +1,7 @@
 # Output directory containing the formatted manuscript
 
 The [`gh-pages`](https://github.com/uiceds/project-watermelon/tree/gh-pages) branch hosts the contents of this directory at <https://uiceds.github.io/project-watermelon/>.
-The permalink for this webpage version is <https://uiceds.github.io/project-watermelon/v/738543fe813d03b3e4b313246c40dda75d0d4bd7/>.
+The permalink for this webpage version is <https://uiceds.github.io/project-watermelon/v/7ee654807b1336f274c686a43c7373635ec645a3/>.
 To redirect to the permalink for the latest manuscript version at anytime, use the link <https://uiceds.github.io/project-watermelon/v/freeze/>.
 
 ## Files
@@ -35,4 +35,4 @@ Verifying timestamps with the `ots verify` command requires running a local bitc
 ## Source
 
 The manuscripts in this directory were built from
-[`738543fe813d03b3e4b313246c40dda75d0d4bd7`](https://github.com/uiceds/project-watermelon/commit/738543fe813d03b3e4b313246c40dda75d0d4bd7).
+[`7ee654807b1336f274c686a43c7373635ec645a3`](https://github.com/uiceds/project-watermelon/commit/7ee654807b1336f274c686a43c7373635ec645a3).
