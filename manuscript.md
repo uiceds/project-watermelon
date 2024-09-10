@@ -1,5 +1,5 @@
 ---
-title: Manuscript Title
+title: Building Watermelon Farms for Climate Change Mitigation
 keywords:
 - markdown
 - publishing
@@ -7,8 +7,10 @@ keywords:
 lang: en-US
 date-meta: '2024-09-10'
 author-meta:
-- John Doe
-- Jane Roe
+- Mayank Aggarwal
+- Katherine Watzke
+- Saranya Yegappan
+- Nina Trousdale
 header-includes: |
   <!--
   Manubot generated metadata rendered from header-includes-template.html.
@@ -16,38 +18,39 @@ header-includes: |
   -->
   <meta name="dc.format" content="text/html" />
   <meta property="og:type" content="article" />
-  <meta name="dc.title" content="Manuscript Title" />
-  <meta name="citation_title" content="Manuscript Title" />
-  <meta property="og:title" content="Manuscript Title" />
-  <meta property="twitter:title" content="Manuscript Title" />
+  <meta name="dc.title" content="Building Watermelon Farms for Climate Change Mitigation" />
+  <meta name="citation_title" content="Building Watermelon Farms for Climate Change Mitigation" />
+  <meta property="og:title" content="Building Watermelon Farms for Climate Change Mitigation" />
+  <meta property="twitter:title" content="Building Watermelon Farms for Climate Change Mitigation" />
   <meta name="dc.date" content="2024-09-10" />
   <meta name="citation_publication_date" content="2024-09-10" />
   <meta property="article:published_time" content="2024-09-10" />
-  <meta name="dc.modified" content="2024-09-10T16:55:36+00:00" />
-  <meta property="article:modified_time" content="2024-09-10T16:55:36+00:00" />
+  <meta name="dc.modified" content="2024-09-10T18:15:17+00:00" />
+  <meta property="article:modified_time" content="2024-09-10T18:15:17+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
   <meta name="dc.publisher" content="Manubot" />
   <meta name="citation_journal_title" content="Manubot" />
   <meta name="citation_technical_report_institution" content="Manubot" />
-  <meta name="citation_author" content="John Doe" />
+  <meta name="citation_author" content="Mayank Aggarwal" />
   <meta name="citation_author_institution" content="Department of Something, University of Whatever" />
   <meta name="citation_author_orcid" content="XXXX-XXXX-XXXX-XXXX" />
-  <meta name="twitter:creator" content="@johndoe" />
-  <meta name="citation_author" content="Jane Roe" />
-  <meta name="citation_author_institution" content="Department of Something, University of Whatever" />
-  <meta name="citation_author_institution" content="Department of Whatever, University of Something" />
+  <meta name="citation_author" content="Katherine Watzke" />
+  <meta name="citation_author_institution" content="Environmental Engineering, University of Illinois" />
+  <meta name="citation_author" content="Saranya Yegappan" />
+  <meta name="citation_author_institution" content="Environmental Engineering, University of Illinois" />
   <meta name="citation_author_orcid" content="XXXX-XXXX-XXXX-XXXX" />
-  <link rel="canonical" href="https://uiceds.github.io/cee-492-term-project-fall-2024-project-rootstock-1/" />
-  <meta property="og:url" content="https://uiceds.github.io/cee-492-term-project-fall-2024-project-rootstock-1/" />
-  <meta property="twitter:url" content="https://uiceds.github.io/cee-492-term-project-fall-2024-project-rootstock-1/" />
-  <meta name="citation_fulltext_html_url" content="https://uiceds.github.io/cee-492-term-project-fall-2024-project-rootstock-1/" />
-  <meta name="citation_pdf_url" content="https://uiceds.github.io/cee-492-term-project-fall-2024-project-rootstock-1/manuscript.pdf" />
-  <link rel="alternate" type="application/pdf" href="https://uiceds.github.io/cee-492-term-project-fall-2024-project-rootstock-1/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://uiceds.github.io/cee-492-term-project-fall-2024-project-rootstock-1/v/44edb5721d1199939d2bd4325b9373c60e0f3b26/" />
-  <meta name="manubot_html_url_versioned" content="https://uiceds.github.io/cee-492-term-project-fall-2024-project-rootstock-1/v/44edb5721d1199939d2bd4325b9373c60e0f3b26/" />
-  <meta name="manubot_pdf_url_versioned" content="https://uiceds.github.io/cee-492-term-project-fall-2024-project-rootstock-1/v/44edb5721d1199939d2bd4325b9373c60e0f3b26/manuscript.pdf" />
+  <meta name="citation_author" content="Nina Trousdale" />
+  <link rel="canonical" href="https://uiceds.github.io/project-watermelon/" />
+  <meta property="og:url" content="https://uiceds.github.io/project-watermelon/" />
+  <meta property="twitter:url" content="https://uiceds.github.io/project-watermelon/" />
+  <meta name="citation_fulltext_html_url" content="https://uiceds.github.io/project-watermelon/" />
+  <meta name="citation_pdf_url" content="https://uiceds.github.io/project-watermelon/manuscript.pdf" />
+  <link rel="alternate" type="application/pdf" href="https://uiceds.github.io/project-watermelon/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://uiceds.github.io/project-watermelon/v/c4c9312d91dcb5b0859719f11e0add8c412df8d1/" />
+  <meta name="manubot_html_url_versioned" content="https://uiceds.github.io/project-watermelon/v/c4c9312d91dcb5b0859719f11e0add8c412df8d1/" />
+  <meta name="manubot_pdf_url_versioned" content="https://uiceds.github.io/project-watermelon/v/c4c9312d91dcb5b0859719f11e0add8c412df8d1/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -69,9 +72,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://uiceds.github.io/cee-492-term-project-fall-2024-project-rootstock-1/v/44edb5721d1199939d2bd4325b9373c60e0f3b26/))
+([permalink](https://uiceds.github.io/project-watermelon/v/c4c9312d91dcb5b0859719f11e0add8c412df8d1/))
 was automatically generated
-from [uiceds/cee-492-term-project-fall-2024-project-rootstock-1@44edb57](https://github.com/uiceds/cee-492-term-project-fall-2024-project-rootstock-1/tree/44edb5721d1199939d2bd4325b9373c60e0f3b26)
+from [uiceds/project-watermelon@c4c9312](https://github.com/uiceds/project-watermelon/tree/c4c9312d91dcb5b0859719f11e0add8c412df8d1)
 on September 10, 2024.
 </em></small>
 
@@ -81,38 +84,52 @@ on September 10, 2024.
 
 
 
-+ **John Doe**
++ **Mayank Aggarwal**
   <br>
     ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
     [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
     · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
-    [johndoe](https://github.com/johndoe)
-    · ![Twitter icon](images/twitter.svg){.inline_icon width=16 height=16}
-    [johndoe](https://twitter.com/johndoe)
-    · ![Mastodon icon](images/mastodon.svg){.inline_icon width=16 height=16}
-    [\@johndoe@mastodon.social](https://mastodon.social/@johndoe)
+    [mayanka26](https://github.com/mayanka26)
     <br>
   <small>
      Department of Something, University of Whatever
      · Funded by Grant XXXXXXXX
   </small>
 
-+ **Jane Roe**
++ **Katherine Watzke**
+  ^[✉](#correspondence)^<br>
+    · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
+    [kwatzke2](https://github.com/kwatzke2)
+    <br>
+  <small>
+     Environmental Engineering, University of Illinois
+  </small>
+
++ **Saranya Yegappan**
   ^[✉](#correspondence)^<br>
     ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
     [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
     · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
-    [janeroe](https://github.com/janeroe)
+    [sarayega](https://github.com/sarayega)
     <br>
   <small>
-     Department of Something, University of Whatever; Department of Whatever, University of Something
+     Environmental Engineering, University of Illinois
+  </small>
+
++ **Nina Trousdale**
+  <br>
+    · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
+    [ninaat2](https://github.com/ninaat2)
+    <br>
+  <small>
   </small>
 
 
 ::: {#correspondence}
-✉ — Correspondence possible via [GitHub Issues](https://github.com/uiceds/cee-492-term-project-fall-2024-project-rootstock-1/issues)
+✉ — Correspondence possible via [GitHub Issues](https://github.com/uiceds/project-watermelon/issues)
 or email to
-Jane Roe \<jane.roe@whatever.edu\>.
+Katherine Watzke \<kwatzke2@illinois.edu\>, 
+Saranya Yegappan \<None\>.
 
 
 :::
